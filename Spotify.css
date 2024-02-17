@@ -107,7 +107,6 @@ th, td {
 }
 .boxes{
     display: flex;
-   
 }
 .min{
     border: 1px solid black;
@@ -115,7 +114,6 @@ th, td {
     height: 350px;
     width:48%;
     margin-left: 20px;
-    box-shadow: violet 1cm;
 }
 .months
 {
